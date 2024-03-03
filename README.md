@@ -1,6 +1,6 @@
 # 沃爾瑪銷售資料分析 
 ## By 永平高中 林立宏 GinoLin980
-
+## [程式原始碼](https://github.com/GinoLin980/Walmart-Data-Analyze/blob/main/Walmart%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90.ipynb)
 ## **有些瀏覽器擴充插件會讓Github無法渲染Jupyter Notebook，如果無法正常渲染請用無痕模式或關閉所有擴充插件**
 
 ## 介紹
